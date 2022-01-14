@@ -1,4 +1,4 @@
-- 👋 Hi, I’m José Jafet Navia Garzón
+- 👋 Hi, I’m @jafetnavia
 - 👀 I’m interested in learning r programming
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on ...
